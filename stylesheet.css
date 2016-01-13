@@ -1,0 +1,136 @@
+#header {
+    background-color: rgb(0,180,0);
+    border-radius: 5px;
+    z-index: 2;
+	position: fixed;
+	width: 97.5%;
+	margin-top: -20px;
+	height: 80px;
+	margin-bottom: 10px;
+}
+
+img {
+    z-index: 1;
+    position: relative;
+    float: left;
+    margin-right: 5px;
+    margin-left: 5px;
+    margin-top: -10px;
+    
+}
+#name {
+	float:left;
+	margin-left: 10px;
+	padding-top: 0px;
+	font-size: 35px;
+	font-weight: bold;
+	font-family: Georgia,serif;
+	color: #000000;
+}
+
+#email{
+	float:right;
+	margin-right: 5px;
+	padding-top: 5px;
+	font-size: 16px;
+	font-family: Georgia, sans-serif;
+	color: #000000;
+}
+
+#footer {
+    background-color: rgb(0,180,0);
+    border-radius: 5px;
+    height: 50px;
+    position: relative;
+	clear: both;
+	font-family: Georgia, sans-serif;
+	font-size: 14px;
+	text-align: center;
+
+}
+
+
+#footer p {
+	position: relative;
+	padding-top: 15px;
+}
+
+.left {
+    position: relative;
+	float: left;
+	margin-top: 75px;
+	width: 10%;
+	height: 1000px;
+    background-color: rgb(120,230,120);
+	margin-bottom: 10px;
+
+}
+
+.right {
+    position: relative;
+	float: right;
+	margin-top: 75px;
+	width: 88%;
+	height: 1000px;
+	background-color: #F4EBC3;
+	margin-bottom: 10px; 
+}
+
+
+.right p {
+	margin-left: 20px;
+	margin-right: 5px;
+	margin-top: -10px;
+	font-family: times, serif;
+	color: #000000;
+	font-size: 18px;
+	margin-bottom: 10px; 
+}
+.right .p {
+	margin-left: 20px;
+	margin-right: 5px;
+	margin-top: 2px;
+	font-family: times, serif;
+	color: #000000;
+	font-size: 18px;
+}
+ul {
+	margin-left: 20px;
+	margin-right: 5px;
+	margin-top: -5px;
+}
+
+
+body {
+ background-color: rgb(200,200,200);
+}
+
+h4 {
+    margin-top: 10px;
+	margin-left: 5px;
+	margin-bottom: 15px;
+	font-family: times, serif;
+	font-size: 28px;
+	border: 5px;
+	border-style: outset;
+	border-color: rgb(200,200,200);
+
+}
+
+h5 {
+    margin-top: -10px;
+	margin-left: 5px;
+	margin-bottom: 15px;
+	font-family: times, serif;
+	font-size: 22px;
+
+}
+
+#ital {
+    font-style: italic;
+    font-weight: normal;
+}
+
+span {
+    font-weight: normal;    
+}
